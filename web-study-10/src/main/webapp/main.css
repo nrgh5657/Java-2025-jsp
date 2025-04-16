@@ -1,0 +1,5 @@
+@charset "UTF-8";
+.container {
+    text-align: center;
+    margin-top: 50px; /* 원하는 만큼 여백 */
+}
